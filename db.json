@@ -1,0 +1,19 @@
+{
+    "chores": [
+      {
+        "id": 1,
+        "name": "Vacuum Stairs",
+        "description": 30
+      },
+      {
+        "id": 2,
+        "name": "Dishes",
+        "description": 25
+      },
+      {
+        "id": 3,
+        "name": "Swiffer Floors",
+        "description": 28
+      }
+    ]
+  }
